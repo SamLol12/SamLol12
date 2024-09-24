@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Gagnon</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
+<img align="right" alt="Coding" width="400" src="https://snehpatel.co.uk/wp-content/uploads/2023/05/profile-1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samlol12&label=Profile%20views&color=0e75b6&style=flat" alt="samlol12" /> </p>
 
