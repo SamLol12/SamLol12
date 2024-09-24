@@ -23,8 +23,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
+<a href="https://www.amd.com/fr/products/software/adaptive-socs-and-fpgas/vivado.html" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="Vivado" width="40" height="40"/> 
+</a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> 
+  <img src="https://polybot-grenoble.fr/wiki/images/b/bb/Logo_STM32Cube.jpg" alt="STM32CubeIDE" width="40" height="40"/> 
+</a>
+<a href="https://www.altium.com/fr/altium-designer" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.sanity.io/images/0hdzqj39/production/3c6747b52143a9a0725c0901be3a9101f5d42cbb-288x288.png" alt="Altium Designer" width="40" height="40"/> 
+</a> 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
 </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> 
@@ -49,10 +58,7 @@
 </a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/> 
-</a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> 
-</a> 
+</a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samlol12&show_icons=true&locale=en&layout=compact" alt="samlol12" /></p>
