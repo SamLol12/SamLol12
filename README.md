@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/samuel-gagnon" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Samuel Gagnon LinkedIn" height="30" width="40" />
 </a>
-<a href="https://fb.com/sam.gagnon" target="_blank">
+<a href="https://www.facebook.com/sam.gagnon.948" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Samuel Gagnon Facebook" height="30" width="40" />
 </a>
 </p>
