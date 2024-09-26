@@ -1,4 +1,4 @@
-[![MasterHead](https://gaulspace.web.app/assets/img/page-home/logo-full.webp)](Documentation/Explications/Diagramme_Structure.png)
+[![MasterHead](https://gaulspace.web.app/assets/img/page-home/logo-full.webp)](https://gaulspace.web.app/home)
 <h1 align="center">Hi 👋, I'm Samuel Gagnon</h1>
 <h3 align="center">An aspiring computer engineer from Quebec</h3>
 <img align="right" alt="Coding" width="400" src="https://snehpatel.co.uk/wp-content/uploads/2023/05/profile-1.gif">
